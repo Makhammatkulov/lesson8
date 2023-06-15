@@ -12,7 +12,7 @@ body {
 }
 
 .bg-header {
-  background: #2f2f2f url(/img/img-girls.png) no-repeat;
+  background: #2f2f2f url(../img/img-girls.png) no-repeat;
   background-position: right 100px;
   min-height: 800px;
 }
